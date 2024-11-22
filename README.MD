@@ -58,10 +58,12 @@ python gFunc.py <Folder>
 ## Example:
 if the project folder is structured as follows:
 
+```
 project/
 ├── models/
 │   ├── file1.py
-│   ├── file2.py
+│   └── file2.py
+```
 
 ```bash
 python gFunc.py models/
